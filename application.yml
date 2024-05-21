@@ -6,5 +6,5 @@ server:
  port: 8081
 
 greeting-service:
- greeting: "hello"
- default-value: "world"
+ greeting: "Olá"
+ default-value: "mundo"
